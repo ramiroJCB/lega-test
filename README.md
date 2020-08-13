@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+############ READ PLS #######
+In order to use this app correctly pls , go and clone this repo https://github.com/ramiroJCB/lega-api , run that server at the same time with this one , then you can see all the features of this app.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -42,5 +45,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-"# lega-test"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/ramiroJCB/lega-test.git git push -u origin master 
-"# lega-test" 
+"# lega-test" git init git add README.md git commit -m "first commit" git remote add origin https://github.com/ramiroJCB/lega-test.git git push -u origin master
+"# lega-test"
