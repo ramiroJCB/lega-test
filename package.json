@@ -1,0 +1,64 @@
+{
+  "name": "lega-green",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@nivo/pie": "^0.62.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/history": "^4.7.7",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-data-grid": "^4.0.5",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router-redux": "^5.0.18",
+    "axios": "^0.19.2",
+    "cake-chart": "^0.2.3",
+    "history": "^4.10.1",
+    "jest": "24.9.0",
+    "react": "^16.13.1",
+    "react-data-grid": "^7.0.0-canary.19",
+    "react-dom": "^16.13.1",
+    "react-minimal-pie-chart": "^8.0.1",
+    "react-redux": "7.2.0",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "3.4.3",
+    "react-svg-donuts": "^1.0.0",
+    "redux": "4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "2.3.0",
+    "styled-components": "^5.1.1",
+    "typescript": "~3.9.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "babel-loader": "^8.1.0",
+    "jest": "^26.4.0",
+    "ts-essentials": "^7.0.0"
+  }
+}
